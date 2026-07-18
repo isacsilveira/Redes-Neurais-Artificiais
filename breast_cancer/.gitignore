@@ -1,0 +1,19 @@
+# Ambiente virtual
+.venv/
+
+# Dataset
+dataset/
+
+# Modelos treinados
+*.pth
+*.pt
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Arquivos temporários
+*.log

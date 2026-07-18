@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision,Recall,Specificity,F1-score,AUC-ROC
+CNN,0.9204,0.9428,0.9411,0.875,0.9419,0.9694
+ResNet18,0.9912,0.9926,0.9945,0.9839,0.9936,0.999
+Ensemble,0.9899,0.9908,0.9945,0.9798,0.9926,0.9984

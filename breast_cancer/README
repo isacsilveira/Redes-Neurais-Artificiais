@@ -1,0 +1,8 @@
+O dataset utilizado é o BreaKHis.
+
+Por questões de tamanho e licença, ele não está incluído no repositório.
+
+Após baixar o dataset, coloque-o em:
+
+dataset/
+    BreaKHis_v1/
